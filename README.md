@@ -1,7 +1,7 @@
 # WebStackDemo
 
 ## Summary
-> Provide a simple way to achieve the goBack & goForward features we used in our browser without calling webView functions like webView.goBack
+> Provide a simple way to achieve the goBack & goForward features we used in our browser without calling webView functions like webView.goBack.
 
 ## Screen Shots
 
